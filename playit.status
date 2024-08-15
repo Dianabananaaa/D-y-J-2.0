@@ -1,3 +1,420 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mInvalid secret, do you want to reset (Y/n)? [2J8[0mInvalid input: "2"
-Invalid secret, do you want to reset (Y/n)? [2J8[0mInvalid input: "2"
-Invalid secret, do you want to reset (Y/n)? 
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.19): 1723694532252 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694535318 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694538378 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694541442 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694544506 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694547565 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694550625 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694553680 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694556741 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694559806 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694562860 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694565915 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694568969 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694572029 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694575092 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694578149 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694581203 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694584260 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694587332 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694590397 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694593454 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694596510 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694599567 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694602641 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694605695 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694608752 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694611809 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694614865 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694617921 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694620991 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694624055 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694627116 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694630172 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694633229 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694636287 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694639345 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694642401 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694645457 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694648526 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694651596 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694654657 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694657717 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694660786 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694663839 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694666902 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694669956 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694673017 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694676075 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694679130 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694682191 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694685250 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694688307 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694691360 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694694418 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694697477 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694700538 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694703601 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694706655 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694709712 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694712774 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694715828 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694718880 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694721945 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694725005 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694728076 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694731141 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694734207 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694737270 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694740326 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694743418 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694746479 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694749540 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694752600 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694755659 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694758714 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694761777 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694764833 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694767891 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694770949 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694774008 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694777061 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694780119 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694783173 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723694786238 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+among-suburban.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
