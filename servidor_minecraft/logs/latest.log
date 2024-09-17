@@ -1,0 +1,394 @@
+[13Sep2024 03:30:41.615] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[13Sep2024 03:30:41.618] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.3 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[13Sep2024 03:30:42.042] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13Sep2024 03:30:42.081] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/D-y-J-2.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[13Sep2024 03:30:42.454] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/D-y-J-2.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[13Sep2024 03:30:42.455] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/D-y-J-2.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[13Sep2024 03:30:42.456] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/D-y-J-2.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[13Sep2024 03:30:42.457] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/D-y-J-2.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[13Sep2024 03:30:42.694] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[13Sep2024 03:30:42.695] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[13Sep2024 03:30:44.930] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Sep2024 03:30:45.209] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[13Sep2024 03:30:45.249] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Sep2024 03:30:45.263] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Sep2024 03:30:45.264] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Sep2024 03:30:45.397] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Sep2024 03:30:45.427] [main/INFO] [Puzzles Lib/]: Loading 71 mods:
+	- alekiships 1.0.10
+	- alexsmobs 1.22.8
+	- amendments 1.20-1.2.8
+	- architectury 9.2.14
+	- balm 7.3.6
+		\-- kuma_api 20.1.8
+	- better_totem_of_undying 2.0.1
+	- betterfortresses 1.20-Forge-2.0.6
+	- bettermineshafts 1.20-Forge-4.0.4
+	- bettertridents 8.0.1
+	- bettervillage 3.1.0
+	- biomeswevegone 1.0.6-Beta
+	- caelus 3.2.0+1.20.1
+	- carryon 2.1.2.7
+	- cerbons_api 1.1.0
+	- charmofundying 6.5.0+1.20.1
+		\-- spectrelib 0.13.15+1.20.1
+	- chimes 2.0.1
+	- citadel 2.5.6
+	- cloth_config 11.1.118
+	- clumps 12.0.0.4
+	- cobweb 1.0.0
+	- collective 7.81
+	- corgilib 4.0.2.0
+	- curios 5.9.1+1.20.1
+	- do_a_barrel_roll 3.5.6+1.20.1
+	- doubledoors 5.9
+	- easymagic 8.0.1
+	- elytraslot 6.4.3+1.20.1
+		\-- mixinsquared 0.1.2-beta.6
+	- elytratrims 3.4.4
+		\-- conditional_mixin 0.6.2
+	- ender_pearl_craft 1.0.0
+	- fallingtree 4.3.4
+	- firearrows 1.20.1-12-forge
+	- forge 47.2.0
+	- framework 0.7.6
+	- geckolib 4.4.7
+	- iceandfire 2.1.13-1.20.1-beta-4
+	- incendium 5.3.5
+	- jei 15.12.3.54
+	- kiwi 11.8.20+forge
+	- kotlinforforge 4.11.0
+	- libraryferret 4.0.0
+	- lootr 0.7.34.85
+	- minecraft 1.20.1
+	- moonlight 1.20-2.12.9
+	- mr_limesplatus_ending 1-v1.1.0c
+	- mr_tidal_towns 1.3
+	- mr_veinminer 1.1.0
+	- netherportalfix 13.0.1
+	- nullscape 1.2.7
+	- ohthetreesyoullgrow 1.2.0
+	- puzzleslib 8.1.21
+		\-- puzzlesaccessapi 8.0.7
+	- radiantgear 2.1.5+1.20.1
+	- ribbits 1.20.1-Forge-3.0.0
+	- rotten_flesh_to_leather 2.0.0
+	- sawmill 1.20-1.4.3
+	- sereneseasons 9.0.0.46
+	- snowrealmagic 10.4.4
+	- soul_fire_d 4.0.2
+	- supplementaries 1.20-2.8.17
+		\-- mixinextras 0.3.6
+	- terrablender 3.0.1.7
+	- tombstone 8.6.8
+	- trashslot 15.1.0
+	- travelersbackpack 9.1.15
+	- universalbonemeal 8.0.1
+	- wardrobe 1.0.3.1
+	- yungsapi 1.20-Forge-4.0.5
+[13Sep2024 03:30:46.750] [main/WARN] [mixin/]: Error loading class: net/fabricmc/fabric/api/entity/event/v1/FabricElytraItem (java.lang.ClassNotFoundException: net.fabricmc.fabric.api.entity.event.v1.FabricElytraItem)
+[13Sep2024 03:30:47.339] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[13Sep2024 03:30:52.408] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[13Sep2024 03:30:52.409] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[13Sep2024 03:30:53.955] [modloading-worker-0/INFO] [snownee.kiwi.Kiwi/INIT]: Processing 6 KiwiModule annotations
+[13Sep2024 03:30:53.998] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for universalbonemeal:main
+[13Sep2024 03:30:54.005] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[13Sep2024 03:30:54.096] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[13Sep2024 03:30:54.113] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[13Sep2024 03:30:54.561] [modloading-worker-0/INFO] [snownee.snow.SnowRealMagic/]: SereneSeasons detected. Overriding weather behavior.
+[13Sep2024 03:30:54.672] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[13Sep2024 03:30:54.679] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[13Sep2024 03:30:55.626] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[13Sep2024 03:30:55.714] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.81.
+[13Sep2024 03:30:55.767] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
+[13Sep2024 03:30:55.887] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for bettertridents:main
+[13Sep2024 03:30:55.953] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
+[13Sep2024 03:30:56.043] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
+[13Sep2024 03:30:56.045] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Biomes We've Gone Block Entities
+[13Sep2024 03:30:56.045] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
+[13Sep2024 03:30:56.046] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
+[13Sep2024 03:30:56.049] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
+[13Sep2024 03:30:56.050] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
+[13Sep2024 03:30:56.053] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
+[13Sep2024 03:30:56.055] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[13Sep2024 03:30:56.059] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
+[13Sep2024 03:30:56.109] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
+[13Sep2024 03:30:56.112] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
+[13Sep2024 03:30:56.113] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
+[13Sep2024 03:30:56.115] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
+[13Sep2024 03:30:56.128] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[13Sep2024 03:30:56.141] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
+[13Sep2024 03:30:56.321] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
+[13Sep2024 03:30:56.323] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
+[13Sep2024 03:30:56.331] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[13Sep2024 03:30:56.337] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
+[13Sep2024 03:30:56.353] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
+[13Sep2024 03:30:56.376] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
+[13Sep2024 03:30:56.377] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
+[13Sep2024 03:30:56.378] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[13Sep2024 03:30:56.400] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
+[13Sep2024 03:30:56.409] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
+[13Sep2024 03:30:56.416] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
+[13Sep2024 03:30:56.417] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
+[13Sep2024 03:30:56.747] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [snowrealmagic:core] initialized
+[13Sep2024 03:30:56.748] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		block: 7, block_entity_type: 2, entity_type: 1, loot_pool_entry_type: 1
+[13Sep2024 03:30:56.749] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_templates] initialized
+[13Sep2024 03:30:56.749] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:block_components] initialized
+[13Sep2024 03:30:56.750] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:data] initialized
+[13Sep2024 03:30:56.750] [main/INFO] [snownee.kiwi.Kiwi/INIT]: 		recipe_serializer: 3
+[13Sep2024 03:30:56.751] [main/INFO] [snownee.kiwi.Kiwi/INIT]: Module [kiwi:item_templates] initialized
+[13Sep2024 03:30:57.878] [main/INFO] [Moonlight/]: Initialized block sets in 18ms
+[13Sep2024 03:30:59.154] [main/INFO] [Puzzles Lib/]: Loading common config for bettertridents
+[13Sep2024 03:30:59.217] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[13Sep2024 03:30:59.224] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[13Sep2024 03:30:59.279] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[13Sep2024 03:30:59.357] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[13Sep2024 03:30:59.357] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[13Sep2024 03:30:59.358] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[13Sep2024 03:30:59.358] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[13Sep2024 03:30:59.360] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[13Sep2024 03:30:59.360] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[13Sep2024 03:30:59.361] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[13Sep2024 03:30:59.362] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[13Sep2024 03:30:59.389] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[13Sep2024 03:30:59.389] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [universalbonemeal] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/universalbonemeal.json
+[13Sep2024 03:30:59.391] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 1, 0, 1, 0, 0, 13, 6, 2] ms
+[13Sep2024 03:30:59.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [universalbonemeal] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[13Sep2024 03:30:59.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[13Sep2024 03:30:59.432] [main/INFO] [Moonlight/]: Initialized color sets in 39ms
+[13Sep2024 03:30:59.458] [main/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Initializing custom structure processors for Biomes We've Gone.
+[13Sep2024 03:30:59.525] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[13Sep2024 03:30:59.526] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[13Sep2024 03:30:59.526] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
+[13Sep2024 03:30:59.526] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
+[13Sep2024 03:30:59.526] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
+[13Sep2024 03:30:59.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[13Sep2024 03:30:59.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[13Sep2024 03:30:59.862] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.15 Target: null
+[13Sep2024 03:30:59.872] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Starting version check at https://api.modrinth.com/updates/OhduvhIc/forge_updates.json
+[13Sep2024 03:30:59.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Found status: OUTDATED Current: 1.1.0 Target: 1.1.0+mod
+[13Sep2024 03:30:59.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cobweb] Starting version check at https://api.modrinth.com/updates/cobweb/forge_updates.json
+[13Sep2024 03:31:00.041] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cobweb] Found status: UP_TO_DATE Current: 1.0.0 Target: null
+[13Sep2024 03:31:00.042] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soul_fire_d] Starting version check at https://api.modrinth.com/updates/soul-fire-d/forge_updates.json
+[13Sep2024 03:31:00.090] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soul_fire_d] Found status: OUTDATED Current: 4.0.2 Target: 4.0.3
+[13Sep2024 03:31:00.090] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[13Sep2024 03:31:00.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[13Sep2024 03:31:00.107] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Sep2024 03:31:00.206] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
+[13Sep2024 03:31:00.206] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[13Sep2024 03:31:00.216] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.8.17 Target: null
+[13Sep2024 03:31:00.217] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[13Sep2024 03:31:00.229] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.12.9 Target: null
+[13Sep2024 03:31:00.229] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
+[13Sep2024 03:31:00.284] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3 Target: 1.3.3+mod
+[13Sep2024 03:31:00.284] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[13Sep2024 03:31:00.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.8 Target: 8.7.3
+[13Sep2024 03:31:00.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettertridents] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/bettertridents.json
+[13Sep2024 03:31:00.306] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettertridents] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[13Sep2024 03:31:00.306] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
+[13Sep2024 03:31:00.372] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
+[13Sep2024 03:31:00.373] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[13Sep2024 03:31:00.382] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.23
+[13Sep2024 03:31:00.383] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[13Sep2024 03:31:00.526] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.2.0.jar%23232!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.2.0.jar%23232!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[13Sep2024 03:31:01.794] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Sep2024 03:31:03.225] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/D-y-J-2.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23231!/assets/.mcassetsroot' uses unexpected schema
+[13Sep2024 03:31:03.226] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/D-y-J-2.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23231!/data/.mcassetsroot' uses unexpected schema
+[13Sep2024 03:31:03.370] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 40 ms
+[13Sep2024 03:31:04.791] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[13Sep2024 03:31:06.410] [main/INFO] [Sawmill/]: Intercepted tag results
+[13Sep2024 03:31:06.547] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[13Sep2024 03:31:06.550] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[13Sep2024 03:31:06.566] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe supplementaries:slice_map
+com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+	at net.minecraft.util.GsonHelper.m_13906_(GsonHelper.java:127) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at net.minecraftforge.common.crafting.conditions.TagEmptyCondition$Serializer.read(TagEmptyCondition.java:68) ~[forge-1.20.1-47.2.0-universal.jar%23236!/:?]
+	at net.minecraftforge.common.crafting.conditions.TagEmptyCondition$Serializer.read(TagEmptyCondition.java:55) ~[forge-1.20.1-47.2.0-universal.jar%23236!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:232) ~[forge-1.20.1-47.2.0-universal.jar%23236!/:?]
+	at net.minecraftforge.common.crafting.conditions.NotCondition$Serializer.read(NotCondition.java:54) ~[forge-1.20.1-47.2.0-universal.jar%23236!/:?]
+	at net.minecraftforge.common.crafting.conditions.NotCondition$Serializer.read(NotCondition.java:41) ~[forge-1.20.1-47.2.0-universal.jar%23236!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:232) ~[forge-1.20.1-47.2.0-universal.jar%23236!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.processConditions(CraftingHelper.java:220) ~[forge-1.20.1-47.2.0-universal.jar%23236!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.processConditions(CraftingHelper.java:209) ~[forge-1.20.1-47.2.0-universal.jar%23236!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.2.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[13Sep2024 03:31:06.578] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[13Sep2024 03:31:06.598] [main/INFO] [Sawmill/]: Generating Sawmill Recipes
+[13Sep2024 03:31:06.653] [main/INFO] [Sawmill/]: Generated Sawmill recipes in 54 milliseconds
+[13Sep2024 03:31:06.657] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[13Sep2024 03:31:06.742] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[13Sep2024 03:31:06.810] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3008 advancements
+[13Sep2024 03:31:06.828] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[13Sep2024 03:31:06.836] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[13Sep2024 03:31:06.842] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[13Sep2024 03:31:06.853] [main/INFO] [bettervillage/]: Ice And Fire compatibility is enabled for Better Villages.
+[13Sep2024 03:31:07.933] [main/INFO] [Moonlight/]: Applied 20 data villager trades
+[13Sep2024 03:31:07.950] [main/INFO] [Supplementaries/]: Finished additional setup in 11 ms
+[13Sep2024 03:31:08.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[13Sep2024 03:31:08.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Sep2024 03:31:08.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Sep2024 03:31:08.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Sep2024 03:31:08.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Sep2024 03:31:08.197] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Sep2024 03:31:08.271] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13Sep2024 03:31:08.272] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[13Sep2024 03:31:08.272] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13Sep2024 03:31:08.272] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[13Sep2024 03:31:08.286] [Server thread/INFO] [Puzzles Lib/]: Loading server config for universalbonemeal
+[13Sep2024 03:31:08.287] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for universalbonemeal
+[13Sep2024 03:31:08.288] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for universalbonemeal
+[13Sep2024 03:31:08.289] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[13Sep2024 03:31:08.289] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[13Sep2024 03:31:08.291] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[13Sep2024 03:31:08.298] [Server thread/INFO] [Puzzles Lib/]: Loading server config for bettertridents
+[13Sep2024 03:31:08.494] [Server thread/INFO] [Sawmill/]: Injecting Carpenter Village Houses
+[13Sep2024 03:31:08.514] [Server thread/INFO] [Framework/]: Loading server configs...
+[13Sep2024 03:31:09.053] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[13Sep2024 03:31:09.054] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[13Sep2024 03:31:09.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Sep2024 03:31:09.385] [Server thread/INFO] [bettervillage/]: Replaced structure of Ice And Fire mod for compatibility between Better Villages and Ice And Fire. (Structure weight defined by the mod Ice And Fire is set to 5, you can change the weight in the configuration of the concerned mod)
+[13Sep2024 03:31:09.403] [Server thread/INFO] [bettervillage/]: Replaced structure of Ice And Fire mod for compatibility between Better Villages and Ice And Fire. (Structure weight defined by the mod Ice And Fire is set to 5, you can change the weight in the configuration of the concerned mod)
+[13Sep2024 03:31:09.404] [Server thread/INFO] [bettervillage/]: Replaced structure of Ice And Fire mod for compatibility between Better Villages and Ice And Fire. (Structure weight defined by the mod Ice And Fire is set to 5, you can change the weight in the configuration of the concerned mod)
+[13Sep2024 03:31:09.404] [Server thread/INFO] [bettervillage/]: Replaced structure of Ice And Fire mod for compatibility between Better Villages and Ice And Fire. (Structure weight defined by the mod Ice And Fire is set to 5, you can change the weight in the configuration of the concerned mod)
+[13Sep2024 03:31:09.730] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class fuzs.bettertridents.world.entity.item.LoyalItemEntity from class fuzs.bettertridents.world.entity.item.LoyalExperienceOrb
+[13Sep2024 03:31:14.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Sep2024 03:31:18.395] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Sep2024 03:31:18.405] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Sep2024 03:31:18.431] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Sep2024 03:31:18.443] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Sep2024 03:31:18.455] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Sep2024 03:31:18.458] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Sep2024 03:31:18.465] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Sep2024 03:31:18.468] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Sep2024 03:31:18.497] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Sep2024 03:31:18.516] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Sep2024 03:31:19.009] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[13Sep2024 03:31:19.488] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5480 ms
+[13Sep2024 03:31:19.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.205s)! For help, type "help"
+[13Sep2024 03:31:19.524] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Sep2024 03:31:19.527] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[13Sep2024 03:31:19.527] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[13Sep2024 03:31:40.341] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[13Sep2024 03:31:40.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sufaqua[/[::1]:53146] logged in with entity id 575 at (-3053.406218514323, 79.0, 1637.4972210830372)
+[13Sep2024 03:31:40.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sufaqua joined the game
+[13Sep2024 03:31:42.219] [Server thread/INFO] [do_a_barrel_roll/]: Client of Sufaqua accepted server config.
+[13Sep2024 03:32:31.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sufaqua: Set own game mode to Creative Mode]
+[13Sep2024 03:32:34.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sufaqua: Set own game mode to Spectator Mode]
+[13Sep2024 03:33:34.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sufaqua: Set own game mode to Creative Mode]
+[13Sep2024 03:33:38.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sufaqua: Set own game mode to Spectator Mode]
+[13Sep2024 03:34:55.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sufaqua: Set own game mode to Creative Mode]
+[13Sep2024 03:34:57.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sufaqua: Set own game mode to Survival Mode]
+[13Sep2024 03:35:33.287] [Server thread/INFO] [do_a_barrel_roll/]: Client of Sufaqua accepted server config.
+[13Sep2024 03:35:53.477] [Server thread/INFO] [do_a_barrel_roll/]: Client of Sufaqua accepted server config.
+[13Sep2024 03:36:21.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sufaqua: Set own game mode to Spectator Mode]
+[13Sep2024 03:37:45.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sufaqua: Set own game mode to Survival Mode]
+[13Sep2024 03:39:10.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sufaqua: Set own game mode to Creative Mode]
+[13Sep2024 03:42:27.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sufaqua: Set own game mode to Survival Mode]
+[13Sep2024 03:53:51.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sufaqua fell from a high place
+[13Sep2024 03:53:51.682] [Server thread/INFO] [tombstone/]: The player Sufaqua has successfully been saved
+[13Sep2024 03:53:54.200] [Server thread/INFO] [do_a_barrel_roll/]: Client of Sufaqua accepted server config.
+[13Sep2024 03:55:04.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sufaqua: Set own game mode to Creative Mode]
+[13Sep2024 03:57:13.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lucas[/[::1]:41042] logged in with entity id 5677 at (-3013.468487142332, 69.01959999638797, 1632.699999988079)
+[13Sep2024 03:57:13.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lucas joined the game
+[13Sep2024 03:57:18.944] [Server thread/INFO] [do_a_barrel_roll/]: Client of Lucas accepted server config.
+[13Sep2024 03:59:17.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sufaqua: Set own game mode to Survival Mode]
+[13Sep2024 04:05:01.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[13Sep2024 04:05:24.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> los panales pesan resto
+[13Sep2024 04:05:35.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> aqui hay otros si quieres llevar
+[13Sep2024 04:05:38.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> asi tenemos mas de 1
+[13Sep2024 04:06:24.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> si me leiste?
+[13Sep2024 04:06:54.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> aqui
+[13Sep2024 04:07:37.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> corre te espero
+[13Sep2024 04:10:00.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> no
+[13Sep2024 04:10:36.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> no se si las abajeas dse queden adentro
+[13Sep2024 04:10:40.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> espero y siw
+[13Sep2024 04:11:18.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> por que vas normal y yo no
+[13Sep2024 04:11:30.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> eso creo
+[13Sep2024 04:11:38.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> me da miedo ponerlo y que se salgan
+[13Sep2024 04:11:47.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[13Sep2024 04:12:56.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> te duevuelves a llevar bajeas?
+[13Sep2024 04:12:58.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> o como
+[13Sep2024 04:13:04.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> creo que tengo 2
+[13Sep2024 04:15:51.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sufaqua: Set own game mode to Creative Mode]
+[13Sep2024 04:15:55.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sufaqua moved too quickly! -3.739160897738202,3.680914447915015,9.471808828464873
+[13Sep2024 04:15:58.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> tienes flores?
+[13Sep2024 04:16:08.369] [Worker-Main-24/ERROR] [net.minecraft.Util/]: Caught exception in thread Thread[#86,Worker-Main-24,5,main]
+java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.clone(Long2ObjectOpenHashMap.java:1332) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.world.level.lighting.SkyLightSectionStorage$SkyDataLayerStorageMap.m_5972_(SkyLightSectionStorage.java:164) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at net.minecraft.world.level.lighting.SkyLightSectionStorage$SkyDataLayerStorageMap.m_5972_(SkyLightSectionStorage.java:144) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at net.minecraft.world.level.lighting.LayerLightSectionStorage.m_75790_(LayerLightSectionStorage.java:287) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at net.minecraft.world.level.lighting.LightEngine.m_9323_(LightEngine.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at net.minecraft.world.level.lighting.LevelLightEngine.m_9323_(LevelLightEngine.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at net.minecraft.server.level.ThreadedLevelLightEngine.m_9366_(ThreadedLevelLightEngine.java:187) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at net.minecraft.server.level.ThreadedLevelLightEngine.m_215156_(ThreadedLevelLightEngine.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at net.minecraft.server.level.ThreadedLevelLightEngine$$Lambda/0x000075e1c9a1e250.run(Unknown Source) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23231!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[13Sep2024 04:16:17.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sufaqua: Set own game mode to Survival Mode]
+[13Sep2024 04:16:28.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> traemos bajeas mejor
+[13Sep2024 04:16:46.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> si se guardaron las bajeas
+[13Sep2024 04:16:55.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> hay dos aca
+[13Sep2024 04:18:32.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> sapo monda
+[13Sep2024 04:18:43.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> trae abejas
+[13Sep2024 04:18:44.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> mejorw
+[13Sep2024 04:18:58.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> y si se guardaron las mias en el panal
+[13Sep2024 04:19:12.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> aqui ya hay abejas
+[13Sep2024 04:19:16.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> pero trae mas
+[13Sep2024 04:19:22.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> una
+[13Sep2024 04:22:06.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[13Sep2024 04:22:41.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2970, y=64, z=1646} BlockPos{x=-2971, y=64, z=1645}
+[13Sep2024 04:22:44.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2973, y=64, z=1651} BlockPos{x=-2975, y=63, z=1651}
+[13Sep2024 04:27:20.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> si quieres no, aca ya las estoy reproduciendo tenemos 4
+[13Sep2024 04:30:29.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lucas> voy
+[13Sep2024 04:31:07.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sufaqua: Set own game mode to Spectator Mode]
+[13Sep2024 04:31:09.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sufaqua: Set own game mode to Survival Mode]
+[13Sep2024 04:31:11.479] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[13Sep2024 04:31:31.661] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
+[13Sep2024 04:32:03.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lucas was slain by Bison
+[13Sep2024 04:33:03.932] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[13Sep2024 04:33:03.933] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[13Sep2024 04:33:04.641] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 9411d3a2-208b-4850-a429-26ecb08d7736
+[13Sep2024 04:33:04.662] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 789dbf25-186e-4139-9ba8-0809cfa81232
+[13Sep2024 04:33:04.663] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/D-y-J-2.0/servidor_minecraft/./crash-reports/crash-2024-09-13_04.33.04-server.txt
